@@ -1,2 +1,2 @@
-# Cauculadora-imc
- Exercicio
+# Calculadora-imc
+ Exercício
